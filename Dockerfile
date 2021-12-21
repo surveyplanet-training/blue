@@ -1,3 +1,3 @@
 FROM nginx
-EXPOSE 80
+EXPOSE 8081
 COPY website /usr/share/nginx/html
